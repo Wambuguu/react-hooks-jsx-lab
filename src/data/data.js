@@ -2,6 +2,6 @@
 const name = "Liza";
 const city = "New York";
 
-const image = "https://i.imgur.com/mV8PQxj.gif";
+const image = "https://i.kym-cdn.com/photos/images/original/000/933/597/842.png";
 
 export { name, city, image };
